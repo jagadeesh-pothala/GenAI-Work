@@ -7,5 +7,14 @@ This repository explains foundational AI concepts using:
 
 ## Topics Covered
 - Intelligence & Human Intelligence
+- Structured and Unstructured Data
 - Machine Learning
+- Neural Networks
+- Deep Learning
+- Tokens
+- Forward Propagation
+- Backpropagation
+- Transformers
+- Parallelism
+- Embeddings
 
